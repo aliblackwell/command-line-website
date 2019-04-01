@@ -1,0 +1,14 @@
+body {
+  background: black;
+  color: white;
+  margin: 0;
+  font-size: 16px;
+}
+
+img {
+  max-width: 100%;
+  border: 0.5rem solid green;
+  padding: 1rem;
+  margin: 1rem;
+}
+
